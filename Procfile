@@ -1,1 +1,1 @@
-web: learn-go-simple-todo-crud
+web: testfor-the-new-server
